@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="PHP/Symfony" />
+    <ignoreAction name="PHP/Add PHPDoc comment" />
+    <ignoreAction name="PHP/Replace with alias" />
+  </component>
+</application>
