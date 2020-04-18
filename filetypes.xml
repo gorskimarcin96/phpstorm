@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping ext="up" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="web" type="PLAIN_TEXT" />
       <mapping pattern="scrollup.js" type="PLAIN_TEXT" />
+      <mapping pattern="web" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="[h[" type="PLAIN_TEXT" />
       <mapping ext="twig'" type="PLAIN_TEXT" />
