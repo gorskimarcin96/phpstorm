@@ -7,6 +7,8 @@
       <mapping pattern="web" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="[h[" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="twig'" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
